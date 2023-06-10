@@ -3,6 +3,7 @@
 Welcome to the Shrike keyboard layout. It is my custom variation of the [canary](https://github.com/Apsu/Canary) layout.
 
 ```
+1 2 3 4 5 = 6 7 8 9 0 -
 w l y p k [ z x o u ; \
  c r s t b ] f n e i a '
 . j v d g q ` m h / , 
