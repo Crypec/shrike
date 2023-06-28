@@ -20,6 +20,7 @@ xkb_symbols "basic" {
     key <AD09> {[ o, O ]};
     key <AD10> {[ u, U ]};
     key <AD11> {[ semicolon, colon ]};
+    key <AD12> {[ backslash, bar ]}
 
     
     key <AC01> {[ c, C ]};
